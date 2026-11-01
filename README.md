@@ -1,9 +1,9 @@
-<p align="center"><img src="card.png" alt="Trimr: a tiny, fast video trimmer for Windows" width="720"></p>
+<p align="center"><img src="card.png" alt="Trimr: an ultra-lightweight video editor for Windows" width="720"></p>
 
 # Trimr
 
-A tiny, fast video trimmer for Windows. Cut, crop, join and layer clips, add music, and export at the
-source's quality. One small file, nothing to install.
+An ultra-lightweight video editor for Windows. Cut, crop, layer and add music. Smaller than a photo,
+nothing to install.
 
 **[Download Trimr.exe](https://github.com/DUCO-SPQR/trimr-app/releases/latest/download/Trimr.exe)**
 &nbsp;·&nbsp; [Website](https://duco-spqr.github.io/trimr-app/)
